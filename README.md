@@ -16,7 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Link - https://trello-nextjs.vercel.app/
 
-Next.js 13.4, GPT-4, Drag & Drop, Zustand, Appwrite Cloud, TS
 ## Tech Used
 ```
 1. NextJs 13.4
